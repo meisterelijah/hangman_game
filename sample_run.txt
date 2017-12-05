@@ -1,0 +1,160 @@
+ _                                              
+| |                                             
+| |__   __ _ _ __   __ _ _ __ ___   __ _ _ __   
+| '_ \ / _` | '_ \ / _` | '_ ` _ \ / _` | '_ \  
+| | | | (_| | | | | (_| | | | | | | (_| | | | | 
+|_| |_|\__,_|_| |_|\__, |_| |_| |_|\__,_|_| |_| 
+                    __/ |                       
+                   |___/                        
+what is your name?
+coop dogg
+-----
+ Enter a letter coop dogg.t
+t----
+ you have 6 tries left.
+ Guessed letters: t
+ Enter a letter coop dogg.y
+ sorry human but you got it wrong. try again.
+t----
+ you have 5 tries left.
+    .-.:|.-.
+   .'   ''   '.
+   ;          ;
+   '-.         :
+     }         :
+   .-'         :
+   :          ;
+   '.        :
+     '-_.._-'
+ 
+
+ Guessed letters: ty
+ Enter a letter coop dogg.k
+ sorry human but you got it wrong. try again.
+t----
+ you have 4 tries left.
+            .:'
+         __ :'__
+      .'`__`-'__``.
+     :__________.-'
+     :_________:
+      :_________`-;
+      `.__.-.__.'
+   
+ Guessed letters: tyk
+ Enter a letter coop dogg.l
+ sorry human but you got it wrong. try again.
+t----
+ you have 3 tries left.
+ .-.:|.-.
+   .'   ''   '.
+   '-.        ;
+     }      .-'
+     }      {
+     }      '-.
+   .-'        ;
+   '.        :
+     '-_.._-'
+
+ Guessed letters: tykl
+ Enter a letter coop dogg.s
+ sorry human but you got it wrong. try again.
+t----
+ you have 2 tries left.
+ .-.:|.-.
+   .'   ''   '.
+   '-.      .-'
+     }      {
+     }      {
+     }      {
+   .-'      '.
+   '.        :
+     '-_.._-' 
+ Guessed letters: tykls
+ Enter a letter coop dogg.e
+t--e-
+ you have 2 tries left.
+ .-.:|.-.
+   .'   ''   '.
+   '-.      .-'
+     }      {
+     }      {
+     }      {
+   .-'      '.
+   '.        :
+     '-_.._-' 
+ Guessed letters: tyklse
+ Enter a letter coop dogg.a
+ sorry human but you got it wrong. try again.
+t--e-
+ you have 1 tries left.
+     .-.:|.-.
+   .'   ''   '.
+   '-.      .-'
+     }"~".  {
+     } } }  {
+     } ' }  {
+   .-'"~"   '.
+   '.        :
+     '-_.._-'
+ 
+ Guessed letters: tyklsea
+ Enter a letter coop dogg.e
+t--e-
+ you have 1 tries left.
+     .-.:|.-.
+   .'   ''   '.
+   '-.      .-'
+     }"~".  {
+     } } }  {
+     } ' }  {
+   .-'"~"   '.
+   '.        :
+     '-_.._-'
+ 
+ Guessed letters: tyklseae
+ Enter a letter coop dogg.u
+ sorry human but you got it wrong. try again.
+t--e-
+ you have 0 tries left.
+   .-.:|.-.
+   .'   ''   '.
+   '-.      .-'
+     }"~"."~{
+     } } } '{
+     } ' } :{
+   .-'"~"~"~'.
+   '.        :
+     '-_.._-'
+
+    YOU LOSE!!!
+
+     
+ Guessed letters: tyklseaeu
+ you lost the word was tired . 
+ would you like to play again? yes or no? yes
+ I'm sorry I don't understand, please enter yes or no
+ would you like to play again? yes or no?yes
+-----
+ Enter a letter coop dogg.t
+t----
+ you have 6 tries left.
+ Guessed letters: t
+ Enter a letter coop dogg.i
+ti---
+ you have 6 tries left.
+ Guessed letters: ti
+ Enter a letter coop dogg.r
+tir--
+ you have 6 tries left.
+ Guessed letters: tir
+ Enter a letter coop dogg.e
+tire-
+ you have 6 tries left.
+ Guessed letters: tire
+ Enter a letter coop dogg.d
+tired
+ you have 6 tries left.
+ Guessed letters: tired
+you win. Thanks for playing!!
+ would you like to play again? yes or no?
